@@ -1,4 +1,4 @@
 RENCANA KONTEN WEB PENGADUAN
-paralax
 email notification
 user friendly
+anggular
