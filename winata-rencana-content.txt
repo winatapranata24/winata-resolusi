@@ -1,5 +1,4 @@
 RENCANA KONTEN WEB PENGADUAN
-paralax
 email notification
 user friendly
 vue
