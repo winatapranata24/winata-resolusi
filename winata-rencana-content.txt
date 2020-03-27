@@ -3,3 +3,4 @@ paralax
 email notification
 user friendly
 vue
+react
