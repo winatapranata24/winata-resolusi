@@ -1,4 +1,5 @@
 RENCANA KONTEN WEB PENGADUAN
 email notification
 user friendly
-anggular
+vue
+react
